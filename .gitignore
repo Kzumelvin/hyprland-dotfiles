@@ -1,0 +1,13 @@
+dconf/
+glib-2.0/
+.git/
+go/
+gtk-3.0
+htop/
+mimeapps.list
+nextjs-nodejs/
+pulse/
+user-dirs.dirs
+user-dirs.locale
+yay/
+uwsm/
